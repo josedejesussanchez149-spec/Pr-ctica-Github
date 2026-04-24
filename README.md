@@ -9,4 +9,4 @@ Este Proyecto es una practica para aprender a usar Github
 - JavaScript
 
 ## Autor
-Manuel Zazueta
+Jose Sanchez
